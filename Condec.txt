@@ -1,0 +1,7 @@
+#STX
+{T.ACT.1[Z2W8]}
+{T.LK.1}
+{T.ACT.2[W1]}
+{T.STAT.1}
+#CR
+#LF
